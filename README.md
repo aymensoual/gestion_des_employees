@@ -1,19 +1,20 @@
-# Employee-management-System #
-Employee management system using spring boot and mySql
 
-Requirements:
+Gestion des employees
 
-1. Spring Tool Suite IDE.
-2. JDK 8.
-3. Maven 2.5.
-4. MYSQL Database.
+           * Spring Boot
+           * Spring MVC
+           * Spring Data JPA 
+           * Hibernate
+           * Thymeleaf
+           * MySQL 
+           * Bootstrap
+ 
+ 
+APPLICATION SCREENSHOTS
 
-Changes need to be done in code to run it.
 
-1. In "application.properties" file write database username and password.
-2. In AppServicesImplementation file change the path in the saveImage function to the path of the images folder of your system present in src->static->images.
-3. 
-4. To run the project run StarterApplication file as Java Application.
-5. To run Selenium Testing - 
-6. To run Junit Test Cases-
+<img src="https://i.ibb.co/6rLQJyZ/1.jpg" width="500">
+<img src="https://i.ibb.co/1LvgfxZ/2.jpg" width="500">
+<img src="https://i.ibb.co/vq8S12m/3.jpg" width="500">
+
 
